@@ -1,5 +1,5 @@
 ! Title: 云焰小说广告屏蔽
-! Version: 201807291147
+! Version: 2018-07-29 19:07
 !----------------------------------网页版------------------------------------!
 www.81zw.com##DIV[id="ad_rightBottom"]
 www.81zw.com##DIV[class="dahengfu"]
