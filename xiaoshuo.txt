@@ -3,6 +3,7 @@
 !
 m.cdzdgw.com##DIV[style*="background"]
 m.cdzdgw.com##DIV[class*="i"]
+m.cdzdgw.com##DIV[class*="readinline"]
 m.cdzdgw.com##DIV[style*="position"]
 m.cdzdgw.com##DIV[id*="baseHeight"]
 m.cdzdgw.com##DIV[id*="d"]
