@@ -139,4 +139,6 @@ m.52bqg.com##CENTER[class="red"]
 m.23us.so##DIV[id*="nu71t"]
 m.biquge.cm##DIV[id*="i"]
 m.biquge.cm##DIV[id^="c"]
+m.ibiquge.net##DIV[style*="display"]
+m.ibiquge.net##a[id="o.\[a-z]"]
 !----------------------------------The End------------------------------------!
