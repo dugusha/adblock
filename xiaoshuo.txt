@@ -1,7 +1,5 @@
-[Adblock Plus 2.0]
-! Checksum: RYT4gsnjeh72o7N430QzmQ
-! Version: 201806262121
 ! Title: 云焰小说广告屏蔽
+! Version: 201807291147
 !
 /bannerad.
 ##.ads-item
