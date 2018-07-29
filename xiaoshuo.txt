@@ -474,4 +474,10 @@ _ad.php?
 /common/ad_
 _300_250.
 .com/ads_
+m.cdzdgw.com##DIV[style*="background1"]
+m.cdzdgw.com##DIV[style*="background"]
+m.cdzdgw.com##DIV[class*="i"]
+m.cdzdgw.com##DIV[style*="position"]
+m.cdzdgw.com##DIV[id*="baseHeight"]
+m.cdzdgw.com##DIV[id*="d"]
 !----------------------------------The End------------------------------------!
