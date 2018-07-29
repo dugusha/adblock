@@ -137,5 +137,6 @@ m.52bqg.com##DIV[class*="nr_set"]
 m.52bqg.com##DIV[id*="baseHeight"]
 m.52bqg.com##CENTER[class="red"]
 m.23us.so##DIV[id*="nu71t"]
-m.biquge.cm##DIV[id="i.\d{3-5}[[0-9],[A-Za-z]]"]
+m.biquge.cm##DIV[id*="i"]
+m.biquge.cm##DIV[id^="c"]
 !----------------------------------The End------------------------------------!
