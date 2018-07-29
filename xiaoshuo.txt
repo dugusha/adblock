@@ -1,6 +1,7 @@
 ! Title:GRS Xiaoshuo
 ! Version:2018/7/29/11:35
 !--------------------------------------------!
+m.cdzdgw.com##DIV[style*="background1"]
 m.cdzdgw.com##DIV[style*="background"]
 m.cdzdgw.com##DIV[class*="i"]
 m.cdzdgw.com##DIV[style*="position"]
