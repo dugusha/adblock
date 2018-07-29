@@ -1,14 +1,7 @@
 [Adblock Plus 2.0]
 ! Checksum: RYT4gsnjeh72o7N430QzmQ
 ! Version: 201806262121
-! Title: EasyList Lite
-! This is a Lite version of EasyList. Only for Simplified Chinese Language Websites
-! Last modified: 2018/06/26 21:21 +0800
-! Expires: 10 days (update frequency)
-! Fork of: EasyList https://easylist.adblockplus.org/
-! Licence: https://easylist-downloads.adblockplus.org/COPYING
-! Email: cjxlist@gmail.com
-! Homepage: http://abpchina.org/forum/forum.php?mod=viewthread&tid=29667
+! Title: 云焰小说广告屏蔽
 !
 /bannerad.
 ##.ads-item
