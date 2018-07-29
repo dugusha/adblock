@@ -1,7 +1,6 @@
 ! Title: 云焰小说广告屏蔽
 ! Version: 201807291147
 !
-m.cdzdgw.com##DIV[style*="background1"]
 m.cdzdgw.com##DIV[style*="background"]
 m.cdzdgw.com##DIV[class*="i"]
 m.cdzdgw.com##DIV[style*="position"]
